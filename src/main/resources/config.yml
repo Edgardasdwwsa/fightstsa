@@ -1,0 +1,5 @@
+# Name shown at the top of the fight summary
+title: "LASTED SURVIVAL"
+
+# How long (seconds) without any fight activity before a fight is considered over
+fight-timeout-seconds: 20
