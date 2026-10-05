@@ -1,0 +1,9 @@
+name: FightStats
+version: 1.0.0
+main: dev.fightstats.FightStats
+api-version: "1.21"
+description: Shows a PvP fight summary (crystals, anchors, XP bottles, armor damage) after a kill.
+commands:
+  fightbreakdown:
+    description: View the detailed breakdown of your last fight.
+    usage: /fightbreakdown

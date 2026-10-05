@@ -1,0 +1,2 @@
+# How long (seconds) without any fight activity before a fight is considered over
+fight-timeout-seconds: 20
